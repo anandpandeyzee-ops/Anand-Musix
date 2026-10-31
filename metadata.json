@@ -1,0 +1,6 @@
+{
+  "name": "Anand Music",
+  "description": "Premium Indian music streaming app with multi-source lossless playback, Bhakti & Devotional radio, dynamic mood stations, and smart queue.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
